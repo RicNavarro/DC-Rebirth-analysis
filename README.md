@@ -8,7 +8,7 @@
 
 This data analytics project explores the universe of DC Comics publications during the  **Rebirth Era**, spanning from 2016 to 2021, which was marketed by DC as a starting point for new readers. The primary goal is to uncover interesting patterns, trends, and insights into comic book production, the focus on different protagonists, and the significance of major events within this editorial phase.
 
-From data collection and cleaning to interactive visualization, this project demonstrates skills in data manipulation with Python (Pandas) and eventual the creation of dynamic dashboards with Power BI.
+From data collection and cleaning to interactive visualization, this project demonstrates skills in data manipulation with Python (Pandas) and eventual the creation of dynamic dashboards with Looker Studio.
 
 ## 📈 Project Status
 
@@ -20,14 +20,11 @@ This project is actively being developed. Here’s a summary of current progress
 *   Dataset uploaded and made available on [Kaggle](https://www.kaggle.com/datasets/ricardotimes2/dc-rebirth-read-list).
 
 ### 🚧 Currently In Progress:
-*   **Data Enhancement in Python:** Actively working on planned dataset improvements, including:
-    *   Adding columns to identify multiple protagonists (e.g., handling "Batman/Superman").
-    *   Introducing a column to indicate a comic book's participation in a specific `Event`.
-    *   Integrating individual event files into the main dataset for richer contextual analysis.
+*   **Refinement of Data Enhancement in Python:** Continuing to fine-tune the dataset for optimal analysis, ensuring consistency and accuracy across all integrated data points. This includes ongoing minor cleanups and edge case handling identified during the enhancement process.
 
 ### 📝 Next Steps:
 *   **Exploratory Data Analysis (EDA):** Conduct deeper dives into the dataset to uncover initial trends and prepare for advanced analysis.
-*   **Visualization Development:** Design and develop an interactive dashboard in Power BI to present key insights.
+*   **Visualization Development:** Design and develop an interactive dashboard in Looker Studio to present key insights.
 *   **Reporting:** Compile a comprehensive report detailing the methodology, key findings, and recommendations.
 
 ## 📚 Data Source
@@ -79,13 +76,13 @@ To further deepen the analysis and add value to the project, I plan to explore t
 
 ### Analysis and Visualization Phase:
 1.  **Exploratory Data Analysis (EDA):** Initial analysis to identify trends and patterns.
-2.  **Interactive Visualization:** Development of dynamic dashboards and reports using **Power BI** to present insights clearly and accessibly.
+2.  **Interactive Visualization:** Development of dynamic dashboards and reports using **Looker Studio** to present insights clearly and accessibly.
 
 ## 🚀 Next Steps
 
 *   Complete the planned dataset enhancements in Python.
 *   Conduct deeper exploratory analyses.
-*   Develop an interactive dashboard in Power BI.
+*   Develop an interactive dashboard in Looker Studio.
 *   Write a report detailing key findings and recommendations.
 
 ## 🤝 How to Contribute
